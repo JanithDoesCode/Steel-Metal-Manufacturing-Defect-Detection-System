@@ -74,9 +74,9 @@ Screenshots
 Place screenshots in a folder called screenshots/ and reference them here:
 
 
-![1](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/1.png)
-![2](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/2.png)
-![3](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/3.png)
+![1](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/refs/heads/main/screenshots/1.png)
+![2](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/refs/heads/main/screenshots/2.png)
+![3](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/refs/heads/main/screenshots/3.png)
 
 ---
 
