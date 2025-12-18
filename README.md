@@ -4,6 +4,7 @@
 
 A CNN-based defect detection system using ResNet18, designed for a fabrication shop called **Chamal Steel Fabricators**.  
 This is a **reproducible version** of the project, intended for demonstration and easy setup.
+![1](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/1.png)
 
 ---
 
@@ -72,12 +73,10 @@ Screenshots
 
 Place screenshots in a folder called screenshots/ and reference them here:
 
-![UI Screenshot1]([screenshots/ui_demo.png](https://github.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/1.png))
 
-![UI Screenshot1]([screenshots/ui_demo.png](https://github.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/3.png))
-
-![Prediction Example]([screenshots/prediction_example.png](https://github.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/2.png))
-
+![1](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/1.png)
+![2](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/2.png)
+![3](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/blob/main/screenshots/3.png)
 
 ---
 
