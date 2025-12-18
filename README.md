@@ -26,12 +26,19 @@ The system is designed for small to medium fabrication shops to quickly test def
 
 Steel-Metal-Defect-Detection/ │ 
 ├─ app.py                    # FastAPI backend 
+
 ├─ predict.py                # Model loading + prediction logic 
+
 ├─ inference.py              # Optional, separate inference file 
+
 ├─ ui.py                     # Gradio interface 
+
 ├─ defect_model_resnet18.pth # Pre-trained model (~50MB) 
+
 ├─ requirements.txt          # Python dependencies 
+
 ├─ README.md                 # This file 
+
 ├─ screenshots/              # Optional, add UI and prediction screenshots
 
 **Note:**  
