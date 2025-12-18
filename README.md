@@ -24,7 +24,15 @@ The system is designed for small to medium fabrication shops to quickly test def
 
 ## Folder Structure
 
-Steel-Metal-Defect-Detection/ │ ├─ app.py                    # FastAPI backend ├─ predict.py                # Model loading + prediction logic ├─ inference.py              # Optional, separate inference file ├─ ui.py                     # Gradio interface ├─ defect_model_resnet18.pth # Pre-trained model (~50MB) ├─ requirements.txt          # Python dependencies ├─ README.md                 # This file ├─ screenshots/              # Optional, add UI and prediction screenshots
+Steel-Metal-Defect-Detection/ │ 
+├─ app.py                    # FastAPI backend 
+├─ predict.py                # Model loading + prediction logic 
+├─ inference.py              # Optional, separate inference file 
+├─ ui.py                     # Gradio interface 
+├─ defect_model_resnet18.pth # Pre-trained model (~50MB) 
+├─ requirements.txt          # Python dependencies 
+├─ README.md                 # This file 
+├─ screenshots/              # Optional, add UI and prediction screenshots
 
 **Note:**  
 The `ML Workflow` folder is included for  and Model training code(most important part) reference, but is **not part of the reproducible setup**. It contains experimental notebooks, intermediate datasets, and training logs.
