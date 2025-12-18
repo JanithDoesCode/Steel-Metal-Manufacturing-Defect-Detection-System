@@ -4,6 +4,8 @@
 
 A CNN-based defect detection system using ResNet18, designed for a fabrication shop called **Chamal Steel Fabricators**.  
 This is a **reproducible version** of the project, intended for demonstration and easy setup.
+
+
 ![1](https://raw.githubusercontent.com/JanithDoesCode/Steel-Metal-Manufacturing-Defect-Detection-System/refs/heads/main/screenshots/1.png)
 
 ---
